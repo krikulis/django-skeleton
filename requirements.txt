@@ -1,0 +1,4 @@
+Django==1.4.2
+South
+django-forms-bootstrap
+pep8

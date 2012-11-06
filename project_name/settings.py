@@ -1,6 +1,6 @@
 # Django settings for {{ project_name }} project.
 import os
-PROJECT_ROOT, tmp = os.path.abspath(os.path.dirname(__file__)).split()
+PROJECT_ROOT, tmp = os.path.split(os.path.abspath(os.path.dirname(__file__)))
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG

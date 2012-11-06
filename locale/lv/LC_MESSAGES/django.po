@@ -1,0 +1,51 @@
+# Django translation to latvian.
+# Copyright (C) 2012
+# This file is distributed under the same license as the django package.
+# Kristaps Kulis <kristaps.kulis@gmail.com> 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-06 23:50+0200\n"
+"PO-Revision-Date: 2012-11-06 23:50+0200\n"
+"Last-Translator: Kristaps Kulis <kristaps.kulis@gmail.com>\n"
+"Language-Team: kk@ll.lv>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2)\n"
+
+#: templates/registration/login.html:7 templates/registration/login.html:48
+#: templates/registration/login.html:54
+msgid "Login"
+msgstr "Pieteikties"
+
+#: templates/registration/password_change_done.html:2
+#: templates/registration/password_change_form.html:3
+msgid "password change"
+msgstr "paroles maiņa"
+
+#: templates/registration/password_change_done.html:4
+msgid "Password changed"
+msgstr "parole nomainīta"
+
+#: templates/registration/password_change_done.html:5
+msgid "Password successfully changed"
+msgstr "Parole veiksmīgi nomainīta"
+
+#: templates/registration/password_change_form.html:6
+#, python-format
+msgid "password change %%"
+msgstr "paroles maiņa"
+
+#: templates/registration/password_change_form.html:10
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: templates/registration/password_change_form.html:12
+msgid "Change password"
+msgstr "Nomainīt paroli"
